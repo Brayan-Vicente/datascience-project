@@ -1,0 +1,8 @@
+Pandas
+Mapplotlib
+nltk
+woldcloud
+Sklearn
+gensim
+numpy
+scipy
